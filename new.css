@@ -24,7 +24,6 @@ body {
   }
   
   .navigation {
-   /* background-color: pink; */
     width: 100%;
     max-width: 100%;
   }
@@ -117,14 +116,11 @@ body {
 
   .main-portfolio {
     flex: 1;
-    /* display: flex; */
     overflow: auto;
     padding: 2rem;
     align-items: center;
     justify-content: center;
     text-align: center;
-    /* margin-top: 5rem; */
-
     font-family: 'Poppins', sans-serif;
   }
 
@@ -139,7 +135,7 @@ body {
     display: flex;
     gap: 5rem;
     flex-direction: column;
-    /* justify-content: space-between; */
+    
   
   }
 
@@ -154,41 +150,6 @@ body {
     
   } 
 
-  /* .section-portfolio {
-  width: 100%;
-  height: auto;
-  background-color: white;
-  display: flex;
-  padding: 50px 20px;
-  justify-content: space-around;
-  
-
-.picture-portfolio {
-  flex-basis: 30%;
-  margin-top: 10px;
-}
-
-.picture-portfolio p {
-  color: rgb(3, 14, 14);
-  text-align: center;
-  line-height: 1.4;
-  margin-bottom: 15px;
-}
-
-.picture-about img {
-  width: 100%;
-  margin-bottom: 15px;
-  height: 600px;
-
-
-} */
-
-  /* .intro-portfolio {
-   align-self: flex-start;
-    
-  } */
-
- 
 
   .main-resume {
     flex: 1;
